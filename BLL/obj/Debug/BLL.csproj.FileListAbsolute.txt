@@ -1,0 +1,17 @@
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\BLL.dll.config
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\BLL.dll
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\BLL.pdb
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\AutoMapper.dll
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\DAL.dll
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\EntityFramework.dll
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\DAL.pdb
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\DAL.dll.config
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\AutoMapper.xml
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\EntityFramework.xml
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\obj\Debug\BLL.dll
+C:\Users\tlvla\Desktop\WpfLesson6-mainуу\Music-Disk-Shop-main\BLL\obj\Debug\BLL.pdb
